@@ -7,7 +7,7 @@ import java.util.List;
  *
  * @author Shimon Rahamim
  */
-public class Ass6Game {
+public class Game {
     private static final int SCREEN_WIDTH = 800;
     private static final int SCREEN_HEIGHT = 600;
 
